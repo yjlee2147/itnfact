@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "873056238962",
+    "firebase_url": "https://interesting-facts-b0ba0.firebaseio.com",
+    "project_id": "interesting-facts-b0ba0",
+    "storage_bucket": "interesting-facts-b0ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873056238962:android:a091e4af2e078fc48771eb",
+        "android_client_info": {
+          "package_name": "com.THR33BANANA.intefacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873056238962-pgl861n09vqk97ojhdu836fgtn21527b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6v3UV4FT-1WOfRvaZQrnlpDoszjhspvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873056238962-pgl861n09vqk97ojhdu836fgtn21527b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "873056238962-vh5dpvmeoimvvnfbki32gq3465qhh0k0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.THR33BANANA.intefacts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
